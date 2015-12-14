@@ -1,0 +1,17 @@
+C:\lavoro\VB.NET\GestFilm\GestFilm\bin\Release\GestFilm.exe.config
+C:\lavoro\VB.NET\GestFilm\GestFilm\bin\Release\GestFilm.exe
+C:\lavoro\VB.NET\GestFilm\GestFilm\bin\Release\GestFilm.pdb
+C:\lavoro\VB.NET\GestFilm\GestFilm\bin\Release\GestFilm.xml
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.vbprojResolveAssemblyReference.cache
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.Resources.resources
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.vbproj.GenerateResource.Cache
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.exe
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.xml
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.pdb
+C:\lavoro\VB.NET\GestFilm\GestFilm\bin\Release\Film.accdb
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.Form1.resources
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.AggiungiFilm.resources
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.AggiungiRegista.resources
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.AggiungiGenere.resources
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.VisualizzaFilmPerGenere.resources
+C:\lavoro\VB.NET\GestFilm\GestFilm\obj\Release\GestFilm.VisualizzaFilmPerGenerePerRegista.resources
